@@ -16,7 +16,7 @@ To tackle this, we propose a novel framework that leverages:
 Our method improves long-tail prediction performance by 19.5% (ADE) and 25.5% (FDE) on ETH/UCY datasets, while maintaining or exceeding state-of-the-art performance on head samples.
 
 <p align="center">
-  <img src="figures/figure1_placeholder.png" alt="Figure 1" width="600"/>
+  <img src="figures/tail.png" alt="Figure 1" width="600"/>
 </p>
 
 **Figure 1**: Distribution of sample difficulty on the ETH dataset with visual comparisons between our method and SOTA baselines on head and tail samples.
@@ -26,7 +26,7 @@ Our method improves long-tail prediction performance by 19.5% (ADE) and 25.5% (F
 ## 🧠 Model
 
 <p align="center">
-  <img src="figures/figure2_placeholder.png" alt="Model Architecture" width="700"/>
+  <img src="figures/pipeline_v7.drawio.png" alt="Model Architecture" width="700"/>
 </p>
 
 **Figure 2**: Overview of our framework. It includes three stages:  
@@ -46,16 +46,16 @@ Code is coming soon! Stay tuned 🔧🤖🔨
 
 ### 🟦 Head Sample Predictions  
 <p float="left">
-  <img src="figures/head_sample1.png" width="200"/>
-  <img src="figures/head_sample2.png" width="200"/>
-  <img src="figures/head_sample3.png" width="200"/>
-  <img src="figures/head_sample4.png" width="200"/>
+  <img src="figures/trajectory_visualization_112.pdf" width="200"/>
+  <img src="figures/trajectory_visualization_1194.pdf" width="200"/>
+  <img src="figures/trajectory_visualization_2531.pdf" width="200"/>
+  <img src="figures/trajectory_visualization_34.pdf" width="200"/>
 </p>
 
 ### 🟥 Tail Sample Predictions  
 <p float="left">
-  <img src="figures/tail_sample1.png" width="200"/>
-  <img src="figures/tail_sample2.png" width="200"/>
-  <img src="figures/tail_sample3.png" width="200"/>
-  <img src="figures/tail_sample4.png" width="200"/>
+  <img src="figures/trajectory_visualization_112.pdf" width="200"/>
+  <img src="figures/trajectory_visualization_1194.pdf" width="200"/>
+  <img src="figures/trajectory_visualization_2531.pdf" width="200"/>
+  <img src="figures/trajectory_visualization_34.pdf" width="200"/>
 </p>
