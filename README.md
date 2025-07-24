@@ -48,11 +48,11 @@ Code is coming soon! Stay tuned 🔧🤖🔨
 
 ### 🟥 Tail Sample Predictions  
 <p float="left">
-  <img src="figures/trajectory_visualization_112.jpg" width="200"/>
-  <img src="figures/trajectory_visualization_1194.jpg" width="200"/>
-  <img src="figures/trajectory_visualization_2531.jpg" width="200"/>
-  <img src="figures/trajectory_visualization_34.jpg" width="200"/>
-  <img src="figures/trajectory_visualization_34.jpg" width="200"/>
+  <img src="figures/trajectory_visualization_238.jpg" width="200"/>
+  <img src="figures/trajectory_visualization_392.jpg" width="200"/>
+  <img src="figures/trajectory_visualization_1617.jpg" width="200"/>
+  <img src="figures/trajectory_visualization_317.jpg" width="200"/>
+  <img src="figures/trajectory_visualization_4754.jpg" width="200"/>
 </p>
 
 **Figure 4**: Qualitative Results: Head samples for each dataset (ETH, HOTEL, UNIV, ZARA1, ZARA2) In this figure the blue line represents past trajecory, green line represents ground truth, black line represents the SOTA trajectory (Trajectron++ EWTA), red line represents Our framework's trajectory and pink dotted lines represents kalman filtred trajecory.
